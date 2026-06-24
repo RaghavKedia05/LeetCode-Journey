@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0409-longest-palindrome) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0409-longest-palindrome) |
