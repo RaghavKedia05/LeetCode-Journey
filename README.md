@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0383-ransom-note) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
 ## Math
@@ -60,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
