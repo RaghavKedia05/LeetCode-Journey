@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
