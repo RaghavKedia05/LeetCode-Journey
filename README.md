@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0389-find-the-difference) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0645-set-mismatch) |
 ## Two Pointers
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0645-set-mismatch) |
 ## Math
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
