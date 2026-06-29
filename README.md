@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0645-set-mismatch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
