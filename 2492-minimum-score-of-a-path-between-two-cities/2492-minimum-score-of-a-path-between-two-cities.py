@@ -1,0 +1,24 @@
+from collections import defaultdict
+
+class Solution:
+    def minScore(self, n: int, roads: List[List[int]]) -> int:
+        graph = defaultdict(list)
+
+        for u, v, dist in roads:
+            graph[u].append((v, dist))
+            graph[v].append((u, dist))
+
+        visited = set()
+        ans = float("inf")
+
+        def dfs(city):
+            nonlocal ans
+            visited.add(city)
+
+            for nei, dist in graph[city]:
+                ans = min(ans, dist)
+                if nei not in visited:
+                    dfs(nei)
+
+        dfs(1)
+        return ans
