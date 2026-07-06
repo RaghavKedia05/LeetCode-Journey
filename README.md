@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0136-single-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0189-rotate-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -181,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
