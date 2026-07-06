@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
