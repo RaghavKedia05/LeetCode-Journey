@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0645-set-mismatch) |
+| [1004-max-consecutive-ones-iii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
