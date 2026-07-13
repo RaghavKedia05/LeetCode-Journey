@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
