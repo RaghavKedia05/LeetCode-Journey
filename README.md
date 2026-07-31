@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 ## Array
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0645-set-mismatch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
