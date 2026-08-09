@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0262-trips-and-users) |
 | [0550-game-play-analysis-iv](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0584-find-customer-referee) |
