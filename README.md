@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0645-set-mismatch) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
