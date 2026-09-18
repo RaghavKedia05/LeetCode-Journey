@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0486-predict-the-winner) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RaghavKedia05/LeetCode-Journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
